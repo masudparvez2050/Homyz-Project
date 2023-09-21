@@ -56,10 +56,4 @@ The website should now be accessible at http://localhost:3000.
 
 If you would like to contribute to the Homyz project, feel free to submit issues, feature requests, or pull requests on the GitHub repository. Your contributions are highly appreciated!
 
-## Live Demo.
 
-for live demo of Homyz &#128073; <a href="https://homyz-project.vercel.app">click here.</a>
-
-<hr>
-
-made with &#128151; by <a href="https://www.mubashiralam.com">"Mubashir Alam"</a>.
